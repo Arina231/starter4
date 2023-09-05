@@ -3,6 +3,7 @@
 ///////////////////////////////////////
 // Scoping in Practice
 
+/*
 function calcAge(birthYear) {
   const age = 2037 - birthYear;
 
@@ -34,7 +35,7 @@ function calcAge(birthYear) {
 
   return age;
 }
-/*
+
 const firstName = 'Jonas';
 calcAge(1991);
 // console.log(age);
